@@ -1,0 +1,117 @@
+drivedb/drive01	ECG1	ECG	496	1000 adu/mV	3968
+drivedb/drive01	EMG1	EMG	1984	10000 adu/mV	3968
+drivedb/drive01	ECG2	foot GSR	31	1000 adu/mV	3968
+drivedb/drive01	ECG3	hand GSR	31	1000 adu/mV	3968
+drivedb/drive01	HR1	HR	15.5	1 adu/bpm	3968
+drivedb/drive01	Resp1	RESP	15.5	500 adu/mV	3968
+drivedb/drive02	ECG1	ECG	496	1000 adu/mV	5036
+drivedb/drive02	ECG2	foot GSR	31	1000 adu/mV	5036
+drivedb/drive02	HR1	HR	15.5	1.0001 adu/bpm	5036
+drivedb/drive02	ECG3	marker	15.5	100 adu/mV	5036
+drivedb/drive02	Resp1	RESP	31	500 adu/mV	5036
+drivedb/drive03	ECG1	ECG	496	1000 adu/mV	5563
+drivedb/drive03	ECG2	foot GSR	31	1000 adu/mV	5563
+drivedb/drive03	ECG3	hand GSR	31	1000 adu/mV	5563
+drivedb/drive03	Resp1	RESP	31	1000 adu/mV	5563
+drivedb/drive04	ECG1	ECG	496	1000 adu/mV	4920
+drivedb/drive04	ECG2	foot GSR	31	1000 adu/mV	4920
+drivedb/drive04	ECG3	hand GSR	31	1000 adu/mV	4920
+drivedb/drive04	HR1	HR	15.5	1 adu/bpm	4920
+drivedb/drive04	ECG4	marker	15.5	100 adu/mV	4920
+drivedb/drive04	Resp1	RESP	31	100 adu/mV	4920
+drivedb/drive05	ECG1	ECG	496	1000 adu/mV	5056
+drivedb/drive05	EMG1	EMG	15.5	1000 adu/mV	5056
+drivedb/drive05	ECG2	foot GSR	31	1000 adu/mV	5056
+drivedb/drive05	ECG3	hand GSR	31	1000 adu/mV	5056
+drivedb/drive05	HR1	HR	15.5	1 adu/bpm	5056
+drivedb/drive05	ECG4	marker	15.5	100 adu/mV	5056
+drivedb/drive05	Resp1	RESP	31	100 adu/mV	5056
+drivedb/drive06	ECG1	ECG	496	1000 adu/mV	4847
+drivedb/drive06	EMG1	EMG	15.5	1000 adu/mV	4847
+drivedb/drive06	ECG2	foot GSR	31	1000 adu/mV	4847
+drivedb/drive06	ECG3	hand GSR	31	1000 adu/mV	4847
+drivedb/drive06	HR1	HR	15.5	1 adu/bpm	4847
+drivedb/drive06	ECG4	marker	15.5	100 adu/mV	4847
+drivedb/drive06	Resp1	RESP	31	100 adu/mV	4847
+drivedb/drive07	ECG1	ECG	496	1000 adu/mV	5319
+drivedb/drive07	EMG1	EMG	15.5	4000 adu/mV	5319
+drivedb/drive07	ECG2	foot GSR	31	1000 adu/mV	5319
+drivedb/drive07	ECG3	hand GSr	31	1000 adu/mV	5319
+drivedb/drive07	HR1	HR	15.5	1 adu/bpm	5319
+drivedb/drive07	ECG4	marker	15.5	100 adu/mV	5319
+drivedb/drive07	Resp1	RESP	31	100 adu/mV	5319
+drivedb/drive08	ECG1	ECG	496	1000 adu/mV	4872
+drivedb/drive08	EMG1	EMG	15.5	8000 adu/mV	4872
+drivedb/drive08	ECG2	foot GSR	31	1000 adu/mV	4872
+drivedb/drive08	ECG3	hand GSR	31	1000 adu/mV	4872
+drivedb/drive08	HR1	HR	15.5	1 adu/bpm	4872
+drivedb/drive08	ECG4	marker	15.5	100 adu/mV	4872
+drivedb/drive08	Resp1	RESP	31	100 adu/mV	4872
+drivedb/drive09	ECG1	ECG	496	1000 adu/mV	4252
+drivedb/drive09	EMG1	EMG	15.5	1000 adu/mV	4252
+drivedb/drive09	ECG2	foot GSR	31	1000 adu/mV	4252
+drivedb/drive09	ECG3	hand GSR	31	1000 adu/mV	4252
+drivedb/drive09	HR1	HR	15.5	1 adu/bpm	4252
+drivedb/drive09	ECG4	marker	15.5	100 adu/mV	4252
+drivedb/drive09	Resp1	RESP	31	100 adu/mV	4252
+drivedb/drive10	ECG1	ECG	496	1000 adu/mV	4877
+drivedb/drive10	EMG1	EMG	15.5	1000 adu/mV	4877
+drivedb/drive10	ECG2	foot GSR	31	1000 adu/mV	4877
+drivedb/drive10	ECG3	hand GSR	31	1000 adu/mV	4877
+drivedb/drive10	HR1	HR	15.5	1 adu/bpm	4877
+drivedb/drive10	ECG4	marker	15.5	100 adu/mV	4877
+drivedb/drive10	Resp1	RESP	31	100 adu/mV	4877
+drivedb/drive11	ECG1	ECG	496	1000 adu/mV	4873
+drivedb/drive11	EMG1	EMG	15.5	8000 adu/mV	4873
+drivedb/drive11	ECG2	foot GSR	31	1000 adu/mV	4873
+drivedb/drive11	ECG3	hand GSR	31	1000 adu/mV	4873
+drivedb/drive11	HR1	HR	15.5	1 adu/bpm	4873
+drivedb/drive11	ECG4	marker	15.5	100 adu/mV	4873
+drivedb/drive11	Resp1	RESP	31	100 adu/mV	4873
+drivedb/drive12	ECG1	ECG	356.5	1000 adu/mV	4984
+drivedb/drive12	EMG1	EMG	15.5	8000 adu/mV	4984
+drivedb/drive12	ECG2	foot GSR	31	1000 adu/mV	4984
+drivedb/drive12	ECG3	hand GSR	31	1000 adu/mV	4984
+drivedb/drive12	HR1	HR	15.5	1 adu/bpm	4984
+drivedb/drive12	ECG4	marker	15.5	100 adu/mV	4984
+drivedb/drive12	Resp1	RESP	31	100 adu/mV	4984
+drivedb/drive13	ECG1	ECG	496	1000 adu/mV	4828
+drivedb/drive13	EMG1	EMG	15.5	8000 adu/mV	4828
+drivedb/drive13	ECG2	foot GSR	31	1000 adu/mV	4828
+drivedb/drive13	HR1	HR	15.5	1 adu/bpm	4828
+drivedb/drive13	ECG3	marker	15.5	100 adu/mV	4828
+drivedb/drive13	Resp1	RESP	31	100 adu/mV	4828
+drivedb/drive14	ECG1	ECG	496	1000 adu/mV	4828
+drivedb/drive14	EMG1	EMG	15.5	8000 adu/mV	4828
+drivedb/drive14	ECG2	foot GSR	31	1000 adu/mV	4828
+drivedb/drive14	ECG3	hand GSR	31	1000 adu/mV	4828
+drivedb/drive14	ECG4	marker	15.5	100 adu/mV	4828
+drivedb/drive14	Resp1	RESP	31	100 adu/mV	4828
+drivedb/drive15	ECG1	ECG	480.5	1000 adu/mV	4659
+drivedb/drive15	EMG1	EMG	15.5	1000 adu/mV	4659
+drivedb/drive15	ECG2	foot GSR	31	1000 adu/mV	4659
+drivedb/drive15	ECG3	hand GSR	31	1000 adu/mV	4659
+drivedb/drive15	HR1	HR	15.5	1 adu/bpm	4659
+drivedb/drive15	ECG4	marker	15.5	100 adu/mV	4659
+drivedb/drive15	Resp1	RESP	31	100 adu/mV	4659
+drivedb/drive16	ECG1	ECG	496	1000 adu/mV	3898
+drivedb/drive16	EMG1	EMG	15.5	1000 adu/mV	3898
+drivedb/drive16	ECG2	foot GSR	31	1000 adu/mV	3898
+drivedb/drive16	ECG3	hand GSR	31	1000 adu/mV	3898
+drivedb/drive16	HR1	HR	15.5	1 adu/bpm	3898
+drivedb/drive16	ECG4	marker	15.5	100 adu/mV	3898
+drivedb/drive16	Resp1	RESP	31	100 adu/mV	3898
+drivedb/drive17a	ECG1	ECG	480	1000 adu/mV	1742
+drivedb/drive17a	EMG1	EMG	15	1000 adu/mV	1742
+drivedb/drive17a	ECG2	foot GSR	30	1000 adu/mV	1742
+drivedb/drive17a	ECG3	hand GSR	30	1000 adu/mV	1742
+drivedb/drive17a	HR1	HR	15	1 adu/bpm	1742
+drivedb/drive17a	ECG4	marker	15	100 adu/mV	1742
+drivedb/drive17a	Resp1	RESP	30	100 adu/mV	1742
+drivedb/drive17b	ECG1	ECG	496	1000 adu/mV	1526
+drivedb/drive17b	EMG1	EMG	15.5	1000 adu/mV	1526
+drivedb/drive17b	ECG2	foot GSR	31	1000 adu/mV	1526
+drivedb/drive17b	ECG3	hand GSR	31	1000 adu/mV	1526
+drivedb/drive17b	HR1	HR	15.5	1 adu/bpm	1526
+drivedb/drive17b	ECG4	marker	15.5	100 adu/mV	1526
+drivedb/drive17b	Resp1	RESP	31	100 adu/mV	1526
